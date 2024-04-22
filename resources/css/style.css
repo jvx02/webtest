@@ -1,0 +1,27 @@
+html, body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    word-spacing: 0%;
+    letter-spacing: 0;
+
+}
+
+#Bigpoo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin: 5px;
+    padding: 2%;
+}
+
+img{
+    padding: 2%;
+    border: 2px solid rgb(231, 135, 18);
+    margin: 15px;
+}
+
+#catanddog img{
+    padding: 5%;
+    border: 5px dashed rgb(25, 238, 139);
+    margin: 25px;
+}
